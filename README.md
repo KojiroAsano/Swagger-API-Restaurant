@@ -1,6 +1,6 @@
 # Swagger-API-Restaurant
 <div>
-<img src="swagger-restaurant-api.gif" width='500'/>
+<img src="swagger-restaurant-api.gif" width='850' />
 </div>
 
 ## Description:
